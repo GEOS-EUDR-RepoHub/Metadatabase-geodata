@@ -1,3 +1,5 @@
+
+
 # Metadatabase-Hub: Dataset-Catalog - GEOS-EUDR Project
 A curated table of metadata for published and public forest and commodities-related spatial datasets at global and regional scales. 
 
@@ -15,11 +17,14 @@ To facilitate usability, the dataset collection is structured to support transpa
 
 The datasets included in this repository are organized into the following thematic domains:
 
-- **Forest / Tree Cover Information**  *(to be released)*    
+- **Forest / Tree Cover Information**  
   Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
   Data related to forest degradation processes, managed forests, and plantation systems.
+
+- **Deforestation / Tree Loss Information** *(to be released)*  
+  Datasets describing areas of detected tree loss and deforestation over time.
 
 - **Regional Scale Data**  *(to be released)* 
   Spatial datasets covering sub-national and regional administrative or ecological units.
