@@ -56,7 +56,6 @@ The datasets are further organized according to the thematic groups listed above
 These files are simplified summaries of each dataset catalogue, designed to facilitate quick exploration and provide a concise overview of the available datasets.
 
 E.g.
-
 <code style="background-color:#f2f2f2; padding:3px 6px; border-radius:4px;">
 Forest_Tree_summary_catalog
 </code>
