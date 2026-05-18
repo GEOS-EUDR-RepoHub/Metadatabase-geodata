@@ -3,10 +3,13 @@ A curated table of metadata for published and public forest and commodities-rela
 
 ## Overview
 
-This repository contains the dataset catalog developed within the **GEOS-EUDR project**, which supports spatially explicit analyses under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). <br>
-The catalog compiles and organizes relevant geospatial datasets that support the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple spatial scales.
+This repository contains the dataset catalog developed within the **GEOS-EUDR project**, which supports spatially explicit analyses under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
 
-The dataset collection is structured to support transparent data discovery and reuse across research and policy applications related to forest monitoring.
+Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple spatial scales. 
+
+To facilitate usability, the dataset collection is structured to support transparent data discovery and reuse across both research and policy applications related to forest monitoring.
+
+---
 
 ## Thematic Scope of the Dataset Catalog
 
@@ -39,24 +42,23 @@ This folder contains the full dataset catalogues in multiple formats:
 - `.tsv`
 - `.xlsx`
 
-The datasets are further organized according to the thematic groups listed above. These files represent the complete and machine-readable versions of the catalog.
+The datasets are further organized according to the thematic groups listed above. These files represent the complete versions of each thematic catalog.
 
 ---
 
 ### 2. `catalog-files/`
-These files are simplified summaries of each dataset catalogue.
+This folder contains simplified summaries of each dataset catalogue, designed to facilitate quick exploration and provide a concise overview of the available datasets.
 
-These files are designed for quick exploration and overview purposes. 
 ---
 
 ### 3. `docs/`
 This folder provides detailed documentation supporting the dataset catalog. It includes:
 
 - **Methodological description**  
-  Explanation of how datasets were collected, including search period and search strategies, and selection criteria used to include datasets in the catalog.
+  Overview of how datasets were identified and collected, including the search period, search strategies, and the criteria used for dataset selection and inclusion in the catalog.
 
 - **Column reference guide**  
-  Detailed descriptions of each column in the dataset catalog, clarifying meaning, units (where applicable).
+  Detailed descriptions of each column in the dataset catalog, clarifying meaning and units (where applicable).
 
 This documentation ensures transparency, reproducibility, and consistent interpretation of the dataset structure.
 
