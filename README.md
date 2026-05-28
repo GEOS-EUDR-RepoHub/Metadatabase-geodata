@@ -49,8 +49,8 @@ This folder contains the full dataset catalogues in multiple formats:
 
 The datasets are further organized according to the thematic groups listed above. These files represent the complete versions of each thematic catalog.
 Within the tables, entries may sometimes appear as “NR” or “NA”, where:
-- NR indicates “not explicitly reported/not explicated”
-- NA indicates “not applicable”.
+- **NR** indicates “not explicitly reported/not explicated”
+- **NA** indicates “not applicable”.
 
 ---
 
