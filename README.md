@@ -1,7 +1,7 @@
 <img width="2650" height="1447" alt="Image" src="https://github.com/user-attachments/assets/b4c5cb43-536b-46e5-819f-6edf1d533c3f" />
 
-# Metadatabase-Hub: Dataset-Catalog - GEOS-EUDR Project
-A curated table of metadata for published and public forest and commodities-related spatial datasets at global and regional scales. 
+# Metadatabase: Dataset-Catalog - GEOS-EUDR Project
+A curated table of metadata for published and public forest, commodities-related and other spatial datasets at global, regional scales and national-level (few countries).
 
 ## Overview
 
@@ -33,7 +33,10 @@ The datasets included in this repository are organized into the following themat
   Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems.
 
 - **National Level Data**  *(to be released)*)    
-  Country-scale datasets supporting broader comparative or aggregated analyses.
+  Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
+  
+
+> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised.
 
 ---
 
@@ -42,7 +45,7 @@ The datasets included in this repository are organized into the following themat
 The repository is organized into three main folders:
 
 ### 1. `data/`
-This folder contains the full dataset catalogues in multiple formats:
+This folder contains the full dataset catalogs in multiple formats:
 - `.csv`
 - `.tsv`
 - `.xlsx`
@@ -56,7 +59,7 @@ Within the tables, entries may sometimes appear as “NR” or “NA”, where:
 
 ### 2. `catalog-files/`
 
-These files are simplified summaries of each dataset catalogue, designed to facilitate quick exploration and provide a concise overview of the available datasets.
+These files are simplified summaries of each dataset catalog, designed to facilitate quick exploration and provide a concise overview of the available datasets.
 
 Example: `Forest_Tree_Summary_Table`
 
@@ -66,7 +69,7 @@ Example: `Forest_Tree_Summary_Table`
 This folder provides detailed documentation supporting the dataset catalog. It includes:
 
 - **Methodological description**  
-  Overview of how datasets were identified and collected, including the search period, search strategies, and the criteria used for dataset selection and inclusion in the catalog.
+  Overview of how datasets were identified and collected, including the search period (although this is an ongoing effort), search strategies, and the criteria used for dataset selection and inclusion in the catalog.
 
 - **Column reference guide**  
   Detailed descriptions of each column in the dataset catalog, clarifying meaning and units (where applicable).
