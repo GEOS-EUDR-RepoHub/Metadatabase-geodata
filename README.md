@@ -64,7 +64,7 @@ Within the tables, entries may sometimes appear as “NR” or “NA”, where:
 
 All dataset files follow the standardized naming structure:
 
-E.g **[Theme]__[Project]__[Source]_[Version].xlsx**
+E.g. **`[Theme]__[Project]__[Source]_[Version].xlsx`**
 
 Where:
 - **Theme**: Broad thematic domain (e.g., ForestCover, Deforestation, CommodityData)
