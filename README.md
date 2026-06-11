@@ -18,19 +18,24 @@ To facilitate usability, the dataset collection is structured to support transpa
 The datasets included in this repository are organized into the following thematic domains:
 
 - **Forest / Tree Cover Information**  
-  Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time.
+  Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time
+  Geographical Scale: Global.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
-  Data related to forest degradation processes, managed forests, and plantation systems.
+  Data related to forest degradation processes, managed forests, and plantation systems
+  Geographical Scale: Mostly Global.
 
 - **Deforestation / Tree Loss Information** *(to be released)*  
-  Datasets describing areas of detected tree loss and deforestation over time.
+  Datasets describing areas of detected tree loss and deforestation over time
+  Geographical Scale: Mostly Global.
 
 - **Regional Scale Data**  *(to be released)* 
-  Spatial datasets covering sub-national and regional administrative or ecological units.
+  Spatial datasets covering sub-national and regional administrative or ecological units
+  Geographical Scale: Regional/Continental.
 
 - **Commodity and Crop-Related Data**  *(to be released)*    
-  Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems.
+  Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
+  Geographical Scale: Mostly Global coverage, but not fully globally representative.
 
 - **National Level Data**  *(to be released)*)    
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
@@ -49,19 +54,50 @@ This folder contains the full dataset catalogs in multiple formats:
 - `.csv`
 - `.tsv`
 - `.xlsx`
-
+  
 The datasets are further organized according to the thematic groups listed above. These files represent the complete versions of each thematic catalog.
 Within the tables, entries may sometimes appear as “NR” or “NA”, where:
 - **NR** indicates “not explicitly reported/not explicated”
 - **NA** indicates “not applicable”.
+  
+#### File naming convention
 
----
+All dataset files follow the standardized naming structure:
+
+E.g **[Theme]_[Project]_[Source]_[Version].xlsx**
+
+Where:
+- **Theme**: Broad thematic domain (e.g., ForestCover, Deforestation, CommodityData)
+- **Project**: Project reference = GEOS-EUDR
+- **Source**: Institution of data provider = Thünen
+- **Version**: Dataset iteration identifier (see versioning rules below)
+
+#### Versioning convention
+
+Versioning reflects changes in dataset content, particularly updates such as:
+- addition of new dataset entries (new lines in the catalog table)
+- revisions or corrections of existing entries
+- structural changes to the dataset
+  
+The adopted version format is:
+
+**vX.Y**
+
+Where:
+- **X (major version)**: Changes that modify structure or significantly alter the dataset (e.g., new variables, schema changes)
+- **Y (minor version)**: Updates that add or modify dataset entries without changing structure
+
+Example:
+- `v1.0` → initial release
+- `v1.1` → new datasets added to the catalog
+- `v2.0` → structural change or major redesign
+
 
 ### 2. `catalog-files/`
 
-These files are simplified summaries of each dataset catalog, designed to facilitate quick exploration and provide a concise overview of the available datasets.
+These files are simplified summaries of each dataset catalog, designed to facilitate quick exploration through links and provide a concise overview of the available datasets.
 
-Example: `Forest_Tree_Summary_Table`
+Example: `ForestCover_TreeExtent_Global_Thuenen_v1.0_SummaryTable`
 
 ---
 
