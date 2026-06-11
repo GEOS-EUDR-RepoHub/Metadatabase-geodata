@@ -60,7 +60,7 @@ Within the tables, entries may sometimes appear as “NR” or “NA”, where:
 - **NR** indicates “not explicitly reported/not explicated”
 - **NA** indicates “not applicable”.
   
-#### File naming convention
+#### 1.1 Data naming convention
 
 All dataset files follow the standardized naming structure:
 
@@ -72,7 +72,7 @@ Where:
 - **Source**: Institution of data provider = Thünen
 - **Version**: Dataset iteration identifier (see versioning rules below)
 
-#### Versioning convention
+#### 1.2 Data versioning convention
 
 Versioning reflects changes in dataset content, particularly updates such as:
 - addition of new dataset entries (new lines in the catalog table)
