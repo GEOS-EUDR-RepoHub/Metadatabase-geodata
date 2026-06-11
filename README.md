@@ -1,4 +1,4 @@
-<img width="2650" height="1447" alt="Image" src="https://github.com/user-attachments/assets/b4c5cb43-536b-46e5-819f-6edf1d533c3f" />
+<img width="2649" height="1448" alt="dataset_theme_distribution_nature_style" src="https://github.com/user-attachments/assets/4bd76488-f2f0-44f9-ba42-4ebc67ff9495" />
 
 # Metadatabase: Dataset-Catalog (GEOS-EUDR Project)
 A curated table of metadata for published and public forest, commodities-related and other spatial datasets at global, regional scales and national-level (few countries).
