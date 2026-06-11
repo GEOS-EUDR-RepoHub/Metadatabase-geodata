@@ -37,7 +37,7 @@ The datasets included in this repository are organized into the following themat
   Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
   Geographical Scale: Mostly Global coverage, but not fully globally representative.
 
-- **National Level Data**  *(to be released)*)    
+- **National Level Data**  *(to be released)*    
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
   
 
