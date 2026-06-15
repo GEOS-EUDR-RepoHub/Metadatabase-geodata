@@ -101,7 +101,7 @@ These files are simplified summaries of each dataset catalog, designed to facili
 Example: `SummaryTable_ForestCover_TreeExtent_GeosEUDR_Thuenen_v1.0`
 
 *Note* that the repository links provided refer to the most recent version of the dataset, or to the version corresponding to the year 2020. 
-For all available links, refer to full table at [data](data.md) page folder.
+For all available links, refer to full table at [data](data/) page folder.
 
 ---
 
