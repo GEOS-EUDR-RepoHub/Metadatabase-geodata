@@ -12,9 +12,21 @@ This repository is associated with the following publications and datasets. The 
 - **Authors** Juliana Freitas Beyer, Margret Köthke and Melvin Lippe  
 - **Link:** [Full Text](https://www.mdpi.com/2072-4292/17/17/3012)  
 - **DOI:** [10.3390/rs17173012](https://doi.org/10.3390/rs17173012)  
-- **Associated Scripts/Notebooks:** `src/Geodata_script`, `src/ROI_script`
 
 
+---
+
+## Softwares/Tools
+
+### 1. Forest Agreement Layer (FAL) 
+- **Title:** Forest Agreement Layer (FAL) - Google Earth Engine Script
+- **Year:** 2026
+- **Authors** Juliana Freitas Beyer, Margret Köthke and Melvin Lippe  
+- **DOI/Identifier:** [10.5281/zenodo.18399645](https://doi.org/10.5281/zenodo.18399645)
+- **Github Repository**: https://github.com/GEOS-EUDR-RepoHub/gee_forest_agreement_layer/tree/main
+- **Suggested citation:** Freitas Beyer, J., Köthke, M., & Lippe, M. (2025). GEOS-EUDR: Technical and Policy Brief No.1. Zenodo. https://doi.org/10.5281/zenodo.17287552
+
+  
 ---
 
 ## Policy Briefs
@@ -24,7 +36,6 @@ This repository is associated with the following publications and datasets. The 
 - **Year:** 2025
 - **Authors** Juliana Freitas Beyer, Margret Köthke and Melvin Lippe  
 - **DOI/Identifier:** [10.5281/zenodo.17287552](https://doi.org/10.5281/zenodo.17287552)
-- **Associated Scripts/Notebooks:** `src/Geodata_script`, `src/ROI_script`
 - **Suggested citation:** Freitas Beyer, J., Köthke, M., & Lippe, M. (2025). GEOS-EUDR: Technical and Policy Brief No.1. Zenodo. https://doi.org/10.5281/zenodo.17287552
-
+  
 ----
