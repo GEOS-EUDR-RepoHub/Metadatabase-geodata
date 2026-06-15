@@ -5,7 +5,7 @@ A curated table of metadata for published and public forest, commodities-related
 
 ## Overview
 
-This repository contains the dataset catalog developed within the **GEOS-EUDR project**, which supports spatially explicit analyses under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
+This repository contains the dataset catalog developed within the **GEOS-EUDR project** at Thünen-Institute of Forestry. The project supports spatially explicit analyses of uncertainties under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
 
 Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple spatial scales. 
 
@@ -41,7 +41,7 @@ The datasets included in this repository are organized into the following themat
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
   
 
-> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised.
+> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised (roughly each 3 months).
 
 ---
 
@@ -54,8 +54,9 @@ This folder contains the full dataset catalogs in multiple formats:
 - `.csv`
 - `.tsv`
 - `.xlsx`
+- `.zip` (containing all three formats above)
   
-The datasets are further organized according to the thematic groups listed above. These files represent the complete versions of each thematic catalog.
+The datasets are further named according to the thematic groups listed priorly. These files represent the complete versions of each thematic catalog.
 Within the tables, entries may sometimes appear as “NR” or “NA”, where:
 - **NR** indicates “not explicitly reported/not explicated”
 - **NA** indicates “not applicable”.
@@ -97,7 +98,10 @@ Example:
 
 These files are simplified summaries of each dataset catalog, designed to facilitate quick exploration through links and provide a concise overview of the available datasets.
 
-Example: `ForestCover_TreeExtent_Global_Thuenen_v1.0_SummaryTable`
+Example: `SummaryTable_ForestCover_TreeExtent_GeosEUDR_Thuenen_v1.0`
+
+*Note* that the repository links provided refer to the most recent version of the dataset, or to the version corresponding to the year 2020. 
+For all available links, refer to full table at [data](data.md) page folder.
 
 ---
 
@@ -129,13 +133,13 @@ If you plan to create any material based on the Forest Agreement Layer scripts, 
 
 ## Publications
 
-This project is associated with several publications, dataset descriptions, and policy briefs.  
+This project is associated with a publication, and a policy brief.  
 For detailed information, please see the dedicated [Publications](publications.md) page.
 
 ---
 
 ## Suggested Citation
-Freitas Beyer, J., Köthke, M., & Lippe, M. (2026). Title (Acronym). Zenodo. https://doi.org/...
+**Forest/Tree cover Dataset**: Freitas Beyer, J., Köthke, M., & Lippe, M. (2026). GEOS-EUDR:  Dataset Catalog - Forest Metadata (Version 1.0). Zenodo. https://10.5281/zenodo.20698510
 
 ---
 
