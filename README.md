@@ -1,7 +1,7 @@
 <img width="2649" height="1448" alt="dataset_theme_distribution_nature_style" src="https://github.com/user-attachments/assets/4bd76488-f2f0-44f9-ba42-4ebc67ff9495" />
 
 # Metadatabase: Dataset-Catalog [(GEOS-EUDR Project)](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr)
-A curated catalog of metadata for published and public forest, commodities-related and other spatial datasets at global, regional, and national scales with particular relevance to the EU regulation of deforestation-free products (EUDR).
+A curated catalog of metadata for published and open access forest, commodities-related and other spatial datasets at global, regional, and national scales with particular relevance to the EU regulation of deforestation-free products (EUDR).
 
 ## Overview
 
