@@ -19,23 +19,23 @@ The datasets included in this repository are organized into the following themat
 
 - **Forest / Tree Cover Information**  
   Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time
-* **Geographical Scale: Global**.
+**Geographical Scale: Global**.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
   Data related to forest degradation processes, managed forests, and plantation systems
-* **Geographical Scale: Mostly Global**.
+**Geographical Scale: Mostly Global**.
 
 - **Deforestation / Tree Loss Information** *(to be released)*  
   Datasets describing areas of detected tree loss and deforestation over time
-* **Geographical Scale: Mostly Global**.
+**Geographical Scale: Mostly Global**.
 
 - **Regional Scale Data**  *(to be released)* 
   Spatial datasets covering sub-national and regional administrative or ecological units
-* **Geographical Scale: Regional/Continental**.
+**Geographical Scale: Regional/Continental**.
 
 - **Commodity and Crop-Related Data**  *(to be released)*    
   Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
-* **Geographical Scale: Mostly Global coverage, but not fully globally representative.**
+**Geographical Scale: Mostly Global coverage, but not fully globally representative.**
 
 - **National Level Data**  *(to be released)*    
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
