@@ -18,23 +18,28 @@ To facilitate usability, the dataset collection is structured to support transpa
 The datasets included in this repository are organized into the following thematic domains:
 
 - **Forest / Tree Cover Information**  
-  Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time
+  Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time.
+  
 **Geographical Scale: Global**.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
-  Data related to forest degradation processes, managed forests, and plantation systems
+  Data related to forest degradation processes, managed forests, and plantation systems.
+  
 **Geographical Scale: Mostly Global**.
 
 - **Deforestation / Tree Loss Information** *(to be released)*  
-  Datasets describing areas of detected tree loss and deforestation over time
+  Datasets describing areas of detected tree loss and deforestation over time.
+  
 **Geographical Scale: Mostly Global**.
 
 - **Regional Scale Data**  *(to be released)* 
-  Spatial datasets covering sub-national and regional administrative or ecological units
+  Spatial datasets covering sub-national and regional administrative or ecological units.
+  
 **Geographical Scale: Regional/Continental**.
 
 - **Commodity and Crop-Related Data**  *(to be released)*    
-  Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
+  Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems.
+  
 **Geographical Scale: Mostly Global coverage, but not fully globally representative.**
 
 - **National Level Data**  *(to be released)*    
