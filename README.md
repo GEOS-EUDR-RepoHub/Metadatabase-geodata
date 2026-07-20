@@ -1,13 +1,13 @@
 <img width="2649" height="1448" alt="dataset_theme_distribution_nature_style" src="https://github.com/user-attachments/assets/4bd76488-f2f0-44f9-ba42-4ebc67ff9495" />
 
 # Metadatabase: Dataset-Catalog (GEOS-EUDR Project)
-A curated table of metadata for published and public forest, commodities-related and other spatial datasets at global, regional scales and national-level (few countries).
+A curated catalog of metadata for published and public forest, commodities-related and other spatial datasets at global, regional, and national scales with particular relevance to the EU regulation of deforestation-free products (EUDR).
 
 ## Overview
 
-This repository contains the dataset catalog developed within the **GEOS-EUDR project** at Thünen-Institute of Forestry. The project supports spatially explicit analyses of uncertainties under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
+This repository contains the dataset catalog developed within the **GEOS-EUDR project** at Thünen-Institute of Forestry (https://www.thuenen.de/en/institutes/forestry). The project supports spatially explicit analyses of uncertainties under the **European Regulation on Deforestation-free Products** (https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
 
-Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple spatial scales. 
+Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple geographical and spatial scales. 
 
 To facilitate usability, the dataset collection is structured to support transparent data discovery and reuse across both research and policy applications related to forest monitoring.
 
@@ -19,29 +19,29 @@ The datasets included in this repository are organized into the following themat
 
 - **Forest / Tree Cover Information**  
   Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time
-  Geographical Scale: Global.
+  **Geographical Scale: Global**.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
   Data related to forest degradation processes, managed forests, and plantation systems
-  Geographical Scale: Mostly Global.
+  **Geographical Scale: Mostly Global**.
 
 - **Deforestation / Tree Loss Information** *(to be released)*  
   Datasets describing areas of detected tree loss and deforestation over time
-  Geographical Scale: Mostly Global.
+  **Geographical Scale: Mostly Global**.
 
 - **Regional Scale Data**  *(to be released)* 
   Spatial datasets covering sub-national and regional administrative or ecological units
-  Geographical Scale: Regional/Continental.
+  **Geographical Scale: Regional/Continental**.
 
 - **Commodity and Crop-Related Data**  *(to be released)*    
   Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
-  Geographical Scale: Mostly Global coverage, but not fully globally representative.
+  **Geographical Scale: Mostly Global coverage, but not fully globally representative.**
 
 - **National Level Data**  *(to be released)*    
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
   
 
-> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised (roughly each 3 months).
+> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised. The catalog will be updated every 3 months on average.
 
 ---
 
