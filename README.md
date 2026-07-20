@@ -5,7 +5,7 @@ A curated catalog of metadata for published and public forest, commodities-relat
 
 ## Overview
 
-This repository contains the dataset catalog developed within the [GEOS-EUDR project](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) at the [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). The project saccompanies the implementation of the [European Regulation on Deforestation-free Products (EUDR)](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en) from a scientific perspective. It aims to contribute to the operational feasibility of the regulation with a focus on geolocation and the detection of deforestation and forest degradation using available earth observation (EO)-based products and geocomputation.
+This repository contains the dataset catalog developed within the [GEOS-EUDR project](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) at the [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). The project accompanies the implementation of the [European Regulation on Deforestation-free Products (EUDR)](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en) from a scientific perspective. It aims to contribute to the operational feasibility of the regulation with a focus on geolocation and the detection of deforestation and forest degradation using available earth observation (EO)-based products and geocomputation.
 
 Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple geographical and spatial scales. 
 
@@ -19,23 +19,23 @@ The datasets included in this repository are organized into the following themat
 
 - **Forest / Tree Cover Information**  
   Datasets describing forest/tree area extent, canopy cover, and tree cover dynamics over time
-  **Geographical Scale: Global**.
+* **Geographical Scale: Global**.
 
 - **Forest Management Information (Degradation and Plantation)**  *(to be released)*   
   Data related to forest degradation processes, managed forests, and plantation systems
-  **Geographical Scale: Mostly Global**.
+* **Geographical Scale: Mostly Global**.
 
 - **Deforestation / Tree Loss Information** *(to be released)*  
   Datasets describing areas of detected tree loss and deforestation over time
-  **Geographical Scale: Mostly Global**.
+* **Geographical Scale: Mostly Global**.
 
 - **Regional Scale Data**  *(to be released)* 
   Spatial datasets covering sub-national and regional administrative or ecological units
-  **Geographical Scale: Regional/Continental**.
+* **Geographical Scale: Regional/Continental**.
 
 - **Commodity and Crop-Related Data**  *(to be released)*    
   Information on selected EUDR-relevant commodities (cattle, wood, cocoa, soy, palm oil, coffee, and rubber) as well as areas associated with general cropping systems
-  **Geographical Scale: Mostly Global coverage, but not fully globally representative.**
+* **Geographical Scale: Mostly Global coverage, but not fully globally representative.**
 
 - **National Level Data**  *(to be released)*    
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
