@@ -5,7 +5,7 @@ A curated catalog of metadata for published and public forest, commodities-relat
 
 ## Overview
 
-This repository contains the dataset catalog developed within the [GEOS-EUDR project](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) at [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). The project supports spatially explicit analyses of uncertainties under the [European Regulation on Deforestation-free Products](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en). 
+This repository contains the dataset catalog developed within the [GEOS-EUDR project](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) at the [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). The project saccompanies the implementation of the [European Regulation on Deforestation-free Products (EUDR)](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en) from a scientific perspective. It aims to contribute to the operational feasibility of the regulation with a focus on geolocation and the detection of deforestation and forest degradation using available earth observation (EO)-based products and geocomputation.
 
 Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple geographical and spatial scales. 
 
