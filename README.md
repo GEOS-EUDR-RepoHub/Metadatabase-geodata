@@ -1,15 +1,15 @@
 <img width="2649" height="1448" alt="dataset_theme_distribution_nature_style" src="https://github.com/user-attachments/assets/4bd76488-f2f0-44f9-ba42-4ebc67ff9495" />
 
-# Metadatabase: Dataset-Catalog [(GEOS-EUDR Project)](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr)
-A curated catalog of metadata for published and open access forest, commodities-related and other spatial datasets at global, regional, and national scales with particular relevance to the EU regulation of deforestation-free products (EUDR).
+# Metadatabase: a structured metadata repository from [(GEOS-EUDR Project)](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr)
+A curated catalog of metadata for published, and publicly available (open access) forest and commodities-related spatial datasets at global, regional, and national scales with particular relevance to the EU regulation of deforestation-free products (EUDR).
 
 ## Overview
 
-This repository contains the dataset catalog developed within the [GEOS-EUDR](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) project at the [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). GEOS-EUDR accompanies the implementation of the [European Regulation on Deforestation-free Products (EUDR)](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en) from a scientific perspective. It aims to contribute to the operational feasibility of the regulation with a focus on geolocation and the detection of deforestation and forest degradation using available earth observation (EO)-based products and geocomputation.
+This repository contains the metadatabase developed within the [GEOS-EUDR](https://www.thuenen.de/en/cross-institutional-projects/geos-eudr) project at the [Thünen-Institute of Forestry](https://www.thuenen.de/en/institutes/forestry). GEOS-EUDR accompanies the implementation of the [European Regulation on Deforestation-free Products (EUDR)](https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en) from a scientific perspective. It aims to contribute to the operational feasibility of the regulation with a focus on geolocation and the detection of deforestation and forest degradation using available earth observation (EO)-based products and geocomputation.
 
-Within this context, the catalog compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple geographical and spatial scales. 
+Within this context, the metadatabase compiles and organizes relevant geospatial datasets that contribute to the understanding and monitoring of deforestation-free supply chains and land-use dynamics across multiple geographical and spatial scales. 
 
-To facilitate usability, the dataset collection is structured to support transparent data discovery and reuse across both research and policy applications related to forest monitoring.
+To facilitate usability, the metadatabase collection is structured to support transparent data discovery and reuse across both research and policy applications related to forest monitoring.
 
 ---
 
@@ -46,7 +46,7 @@ The datasets included in this repository are organized into the following themat
   Country-scale datasets supporting broader comparative or aggregated analyses. Only available for few countries.
   
 
-> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised. The catalog will be updated every 3 months on average.
+> ⚠️ **Disclaimer:** Each thematic domain may include multiple versions of a dataset, reflecting updates over time, as the production of remotely sensed derived products is continuously evolving and frequently revised. The catalog is updated every 3 months on average.
 
 ---
 
@@ -99,9 +99,9 @@ Example:
 - `v2.0` → structural change or major redesign
 
 
-### 2. `catalog-files/`
+### 2. `Metadatabase-files/`
 
-These files are simplified summaries of each dataset catalog, designed to facilitate quick exploration through links and provide a concise overview of the available datasets.
+These files are simplified summaries of each metadatabase catalog, designed to facilitate quick exploration through links and provide a concise overview of the available datasets.
 
 Example: `SummaryTable_ForestCover_TreeExtent_GeosEUDR_Thuenen_v1.0`
 
@@ -111,7 +111,7 @@ For all available links, refer to full table at [data](data/) page folder.
 ---
 
 ### 3. `docs/`
-This folder provides detailed documentation supporting the dataset catalog. It includes:
+This folder provides detailed documentation supporting the metadatabase. It includes:
 
 - **Methodological description**  
   Overview of how datasets were identified and collected, including the search period (although this is an ongoing effort), search strategies, and the criteria used for dataset selection and inclusion in the catalog.
